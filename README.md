@@ -1,4 +1,4 @@
-# Data_Analyst_Project
+# Top 100 Indian Companies Data Analysis
 Description : 
 In this data analysis project, I delve into the financial and operational landscape of 100 prominent companies in India, employing the power of Python for comprehensive data analysis. The objective is to gain insights into the performance and trends within the selected companies, providing valuable information for investors, stakeholders, and business enthusiasts.
 
