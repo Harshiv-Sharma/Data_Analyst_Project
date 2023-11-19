@@ -11,4 +11,7 @@ Key Features:
 3. Created visually compelling and informative data visualizations using tools such as Matplotlib and Seaborn .
 
 Conclusion :
-1. 
+1. Iron And Steel Industry is the most growing industry in India.
+2.  Many companies prefer Mumbai for the location of their headquarters.
+3.  Indian Oil Company Has the Highest Revenue Among Indian Companies.
+4.  Reliance Industries Ltd. is the most profitable company in India.
